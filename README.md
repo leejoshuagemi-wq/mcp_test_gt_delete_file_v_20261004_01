@@ -1,0 +1,2 @@
+# mcp_test_gt_delete_file_v_20261004_01
+mcp_test_ delete_file v synthetic
